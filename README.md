@@ -21,7 +21,7 @@ catkin_make
 
 Now run the following command (inside the root of catkin workspace) to build up running environment for Turtlebot2
 ```
-curl -sLf https://raw.githubusercontent.com/gaunthan/Turtlebot2-On-Melodic/master/install_basic.sh | bash
+curl -sLf https://raw.githubusercontent.com/bkesari1998/Turtlebot2-On-Melodic/master/install_basic.sh | bash
 catkin_make
 ```
 
