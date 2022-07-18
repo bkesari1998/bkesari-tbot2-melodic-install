@@ -4,7 +4,7 @@ mkdir -p src
 cd src
 
 git clone https://github.com/turtlebot/turtlebot_simulator.git
-git clone https://github.com/turtlebot/turtlebot.git
+git clone https://github.com/bkesari1998/bkesari_turtlebot_ros.git
 git clone https://github.com/turtlebot/turtlebot_apps.git
 git clone https://github.com/turtlebot/turtlebot_msgs.git
 git clone https://github.com/turtlebot/turtlebot_interactions.git
